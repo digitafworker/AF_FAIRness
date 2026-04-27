@@ -1,0 +1,65 @@
+{
+  "data_type": [
+    "Aggregated data",
+    "Survey data"
+  ],
+  "spatial_scales": [
+    "Farm"
+  ],
+  "indicators": [
+    "Yield / Biomass",
+    "Labour",
+    "Economics",
+    "Land use"
+  ],
+  "time_steps": [
+    "Yearly"
+  ],
+  "data_formats": [
+    "Widely used file formats (Spreadsheet, JSON, GeoJSON, SHP, GPX, KML, XML, TIFF, MP3, MP4, etc.)"
+  ],
+  "digitaf_data_ll": [],
+  "digitaf_data_wp": [],
+  "submitter_name": "Michael den Herder",
+  "submitter_email": "michael.denherder@efi.int",
+  "name": "Farm Sustainability Data Network (FSDN)",
+  "url": "https://agriculture.ec.europa.eu/data-and-analysis/farm-structures-and-economics/fsdn_en",
+  "description": "The FSDN is an informative source for understanding the impact of the measures taken under the common agricultural policy (CAP), as the only source of microeconomic data based on harmonised bookkeeping principles. It provides valuable insights into the EU's commercial farms. The methodology it applies aims to provide representative data according to three categories: region, economic size and type of farming.\n\nThe Farm Sustainability Data Network (FSDN) is an EU survey that gathers annual data about farms. This survey has collected farm economics data from an annual sample of around 75 000 farms across the EU for more than 60 years. This sample represents 3.5 million farms and 90% of the EU\u2019s agricultural production. Managed at the national level and compiled at the EU level, this network provides currently valuable insights on the economic aspects of EU farms. The results can be found in the farm economics webpage: https://agridata.ec.europa.eu/extensions/FarmEconomyFocus/FarmEconomyFocus.html\n\nIn 2025, the FSDN began collecting additional data to give a clearer view of broader sustainability in agriculture, covering economic, environmental, and social factors.",
+  "keywords": [
+    "Europe",
+    "farm data",
+    "economic farming data",
+    "crop farms",
+    "livestock farms",
+    "mixed crop and livestock farms"
+  ],
+  "data_ownership": "European Commission",
+  "data_contact": "Directorate-General for Agriculture and Rural Development",
+  "data_project_name": "",
+  "data_project_url": "",
+  "spatial_details": "This survey consists of all agricultural holdings in the European Union of at least 1 hectare and those of less than 1 hectare provided the latter market a certain proportion of their output or produce more than a specified amount of output. The survey includes economic farms. A commercial farm is defined as a farm which is large enough to provide a main activity for the farmer and a level of income sufficient to support his or her family. In practical terms, in order to be classified as commercial, a farm must exceed a minimum economic size. However, because of the different farm structures across the European Union, a \ndifferent threshold is set for each Member State. Consequently, the set of farms which constitute the FADN field of observation in a given country is represented by those agricultural holdings surveyed by the FSS, with an economic size exceeding the threshold set for that country.",
+  "year_release": 1965,
+  "year_lastupdate": 2026,
+  "time_span_oldest": 1965,
+  "time_span_newest": 2023,
+  "license_url": "",
+  "listed_other_databases_list": "FSDN Public Information",
+  "documentation_list": "Analytical Briefs: https://agriculture.ec.europa.eu/cap-my-country/performance-agricultural-policy/analytical-briefs_en",
+  "digitaf_data_used": "",
+  "feedback_data_info": "",
+  "url_persistent": "No",
+  "data_project": "No, it has another source",
+  "data_collection_country": "Europe",
+  "data_confidentiality": "No, the data is public",
+  "license": "Not stated",
+  "access_barrier": "No, direct download/access through a web link",
+  "data_relevant_attributes": "Yes",
+  "listed_other_databases": "Yes",
+  "data_metadata": "Yes",
+  "documentation_accessible": "Yes",
+  "data_metadata_vocabulary": "Yes",
+  "development_process": "Yes",
+  "id": "farm_sustainability_data_network_fsdn",
+  "timestamp_creation": 1777281930140,
+  "timestamp_lastedit": 1777281930140
+}
