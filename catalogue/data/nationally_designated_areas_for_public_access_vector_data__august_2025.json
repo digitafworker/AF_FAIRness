@@ -1,0 +1,67 @@
+{
+  "data_type": [
+    "Spatial data"
+  ],
+  "spatial_scales": [
+    "European",
+    "Other"
+  ],
+  "indicators": [
+    "Biodiversity",
+    "Land use"
+  ],
+  "time_steps": [
+    "Yearly"
+  ],
+  "data_formats": [
+    "Widely used file formats (Spreadsheet, JSON, GeoJSON, SHP, GPX, KML, XML, TIFF, MP3, MP4, etc.)"
+  ],
+  "digitaf_data_ll": [],
+  "digitaf_data_wp": [
+    "WP3 - Tools for beneficiaries"
+  ],
+  "submitter_name": "Michael den Herder",
+  "submitter_email": "michael.denherder@efi.int",
+  "name": "Nationally designated areas for public access (vector data) - August 2025",
+  "url": "https://doi.org/10.2909/81f265d0-0734-4315-af0f-63721e937f57",
+  "url_persistent": "Yes",
+  "description": "The European inventory of Nationally designated areas holds information about designated areas and their designation types, which directly or indirectly create protected areas. The Nationally designated areas is the official source of protected area information from the 38 European member countries to the World Database of Protected Areas (WDPA). The Nationally designated areas data can be queried online in the European Nature Information System (EUNIS). Two versions of the public dataset are provided. The full dataset includes the entire geographical coverage including nationally designated areas in overseas entities. The European dataset excludes the overseas entities. The datasets are accompanied by tabular data which 1) includes information on the nationally designated sites and designated boundaries for public dissemination; and 2) contains information about designation types and the national and international legislative instruments, which directly or indirectly create protected designated areas in Europe.",
+  "keywords": [
+    "Protected areas",
+    "designation types",
+    "biodiversity",
+    "land use",
+    "bird directive",
+    "habitat directive",
+    "Natura 2000",
+    "national park",
+    "strict nature reserve"
+  ],
+  "data_ownership": "European Environment Agency",
+  "data_contact": "sdi@eea.europa.eu",
+  "data_project": "No, it has another source",
+  "data_collection_country": "Europe",
+  "spatial_scales_other": "Europe and overseas protected areas",
+  "spatial_details": "Vector data and tabular data",
+  "year_release": 2025,
+  "year_lastupdate": 2025,
+  "time_span_oldest": 2005,
+  "time_span_newest": 2025,
+  "data_confidentiality": "No, the data is public",
+  "license": "Other",
+  "license_other": "CC-BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "access_barrier": "No, direct download/access through a web link",
+  "data_relevant_attributes": "Yes",
+  "listed_other_databases": "Yes",
+  "listed_other_databases_list": "European Nature Information System (EUNIS)",
+  "data_metadata": "Yes",
+  "documentation_accessible": "Yes",
+  "data_metadata_vocabulary": "Yes",
+  "development_process": "Yes",
+  "digitaf_data_used": "The dataset was used to map priority areas for agroforestry including and excluding protected areas and Natura 2000 areas, in Lawson, G., Bertomeu, M., den Herder, M., Kay, S., Deranja, D., De Boeck, A.,\nBurgess, P.J. (2025). Agroforestry and net-zero in the European agriculture, forestry and land use sector. Chapter 10. In: Kumar, S., Meena, R.S. (Eds). Agriculture towards Net Zero Emissions. 179-203. London: Academic Press.",
+  "documentation_list": "Map viewer: https://www.eea.europa.eu/en/analysis/maps-and-charts/european-protected-areas-1",
+  "id": "nationally_designated_areas_for_public_access_vector_data__august_2025",
+  "timestamp_creation": 1777365296253,
+  "timestamp_lastedit": 1777365296253
+}
