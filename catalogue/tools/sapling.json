@@ -100,7 +100,7 @@
     "digitaf_tool_demo_video": "https://agroforestry.ilvo.be/sapling/",
     "feedback_tool_info": "The interface of the tool is freely accessible; access to the script behind the tool can be requested (send mail to info@agroforestryvlaanderen.be) and is on ILVO's Gitlab.",
     "documentation_accessible": "Yes",
-    "id": "acorn",
+    "id": "sapling",
     "timestamp_creation": 1775224711855,
     "timestamp_lastedit": 1794568309642,
     "editor_name": "Bert Reubens",
