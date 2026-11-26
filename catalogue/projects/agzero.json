@@ -1,0 +1,29 @@
+{
+    "submitter_name": "Ana Tom\u00e1s",
+    "submitter_email": "anatomas@mvarc.eu",
+    "acronym": "AgZero+",
+    "name": "Towards Sustainable, Climate-Neutral Farming Systems",
+    "start_date": "2022-06",
+    "end_date": "2027-03",
+    "logo_url": "https://agzeroplus.org.uk/sites/default/files/inline-images/AgZeroPlus_1200-stroke_0.jpg",
+    "lead": "UK Centre for Ecology & Hydrology (UKCEH)",
+    "programme": "Natural Environment Research Council (NERC) and Biological Sciences Research Council (BBSRC)",
+    "description": "AgZero+ is a five-year research programme supporting the transition towards sustainable, climate-neutral agricultural systems in the United Kingdom. It aims to identify practical pathways towards net-zero-plus arable and livestock farming by integrating agricultural productivity with greenhouse gas emission reductions, biodiversity enhancement, improved soil health and reduced environmental pollution.\n\nThe programme combines multidisciplinary research, advanced environmental monitoring, modelling and collaboration with farmers to evaluate innovative agricultural practices at farm, field and landscape scales. Research activities include the assessment of greenhouse gas emissions, carbon stocks, soil and water quality, biodiversity, crop yields and ecosystem services, alongside the economic and social implications of alternative farming systems.\n\nA network of commercial study farms, experimental platforms, national sensor networks and satellite observations provides the empirical basis for evaluating different management approaches. Particular attention is given to precision agriculture, regenerative practices, agroforestry, nature-based solutions and biochar, with the aim of identifying synergies and trade-offs between production and environmental performance.\n\nThe programme also develops data portals, models and decision-support tools to provide farmers, researchers and policymakers with evidence-based information to support the transition towards more sustainable agricultural systems.",
+    "keywords": [
+        "Agroecology",
+        "Sustainable Agriculture",
+        "Climate Change Mitigation",
+        "Net Zero Farming",
+        "Agroforestry",
+        "Carbon Sequestration",
+        "Soil Health",
+        "Biodiversity",
+        "Ecosystem Services",
+        "Precision Agriculture"
+    ],
+    "contact": "agzeroplus@ceh.ac.uk",
+    "project_url": "https://agzeroplus.org.uk/",
+    "id": "agzero",
+    "timestamp_creation": 1795699022614,
+    "timestamp_lastedit": 1795699022614
+}
