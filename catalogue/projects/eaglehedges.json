@@ -1,0 +1,28 @@
+{
+    "submitter_name": "Ana Tom\u00e1s",
+    "submitter_email": "anatomas@mvarc.eu",
+    "acronym": "EagleHedges",
+    "name": "Monitoring and Characterisation of Hedgerow Networks",
+    "programme": "Space for Climate Observatory (SCO)",
+    "description": "EagleHedges aimed to develop operational methods and tools for the large-scale monitoring and characterisation of hedgerow networks in France, using very high-resolution Earth observation imagery, artificial intelligence and 3D surface models.\n\nThe project addressed the need for reliable and regularly updated spatial information on hedgerows, which play an important role in agricultural landscape connectivity, biodiversity conservation, climate resilience and the provision of ecosystem services.\n\nTwo complementary solutions were developed. The first is an automated hedgerow detection service based on satellite and aerial imagery, enabling the mapping and monitoring of hedgerow extent and linear coverage over time. The second is HedgeTools, an open-source QGIS plugin developed to characterise hedgerows from morphological, structural and functional perspectives, generating indicators that support the assessment of their ecological roles and ecosystem services.\n\nThe project combined remote sensing, deep learning, spatial analysis and field validation across representative French agricultural landscapes. Its outputs support landscape planning, hedgerow conservation and restoration policies, and the monitoring of agroecological transition strategies.",
+    "logo_url": "https://www.spaceclimateobservatory.org/sites/default/files/inline-images/Detection_haies_web.jpg",
+    "keywords": [
+        "Hedgerow Mapping",
+        "Remote Sensing",
+        "Agroforestry",
+        "Landscape Connectivity",
+        "Artificial Intelligence",
+        "Ecosystem Services",
+        "Biodiversity Monitoring",
+        "GIS",
+        "Earth Observation",
+        "Landscape Management"
+    ],
+    "lead": "TerraNIS",
+    "project_url": "https://www.spaceclimateobservatory.org/eaglehedges",
+    "start_date": "2021",
+    "end_date": "2023",
+    "id": "eaglehedges",
+    "timestamp_creation": 1795705500342,
+    "timestamp_lastedit": 1795705500342
+}
