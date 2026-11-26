@@ -1,0 +1,27 @@
+{
+    "submitter_name": "Ana Tom\u00e1s",
+    "submitter_email": "anatomas@mvarc.eu",
+    "acronym": "Go\u00d6ko",
+    "name": "Go\u00d6ko-Heckenmanager und Geh\u00f6lzdatenbank (Optimised Hedgerow Management for Ecosystem Services)",
+    "start_date": "2019/04/01",
+    "end_date": "2021/12/31",
+    "programme": "Federal Ministry of Food and Agriculture (BMEL)",
+    "code": "2818BM051",
+    "project_url": "https://hecken-landschaft.de/",
+    "description": "The Go\u00d6ko project aimed to develop and demonstrate a sustainable management concept for existing woody landscape structures in agricultural landscapes, particularly hedgerows, windbreaks and riparian buffer strips. Its main objective was to improve the provision of ecosystem services while promoting the sustainable and economically viable use of woody biomass.\n\nThe project developed a methodology for mapping, classifying and assessing hedgerows according to their structure, ecological condition and capacity to provide ecosystem services, including habitat provision, water protection, wind protection, landscape value and biomass production.\n\nDemonstration activities were conducted in the Oberhavel district of Brandenburg, Germany, where approximately 113 km of hedgerows were mapped and assessed. Practical management interventions, including selective harvesting, rejuvenation and replanting, were tested to evaluate their ecological and economic feasibility.\n\nA central output was the Go\u00d6ko-Heckenmanager, a web-based decision-support tool designed to support farmers, land managers and public authorities in planning sustainable hedgerow management at individual and landscape scales. The project also developed a woody species database and practical management guidelines.",
+    "lead": "Brandenburg University of Technology Cottbus-Senftenberg (BTU)",
+    "keywords": [
+        "Hedgerow Management",
+        "Agroforestry",
+        "Ecosystem Services",
+        "Agricultural Biodiversity",
+        "Landscape Management",
+        "Woody Biomass",
+        "Decision Support Systems",
+        "Sustainable Land Management"
+    ],
+    "logo_url": "https://hecken-landschaft.de/assets/images/Bild%201%20Maihof%20Holzernte.jpg",
+    "id": "goko",
+    "timestamp_creation": 1795699489329,
+    "timestamp_lastedit": 1795699489329
+}
