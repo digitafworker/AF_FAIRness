@@ -1,0 +1,27 @@
+{
+    "retrieve_from_cordis": "https://cordis.europa.eu/project/id/QLK5-CT-2001-00560",
+    "acronym": "SAFE",
+    "code": "Grant agreement ID: QLK5-CT-2001-00560",
+    "name": "Silvoarable agroforestry for europe",
+    "programme": "FP5",
+    "description": "The SAFE project aims to allow Europe to take advantage of silvoarable agro forestry systems that are currently prevented due to policy maladjustment. The introduction of wide-spaced high-quality trees in European farmland will be modelled at the plot, farm, and regional scale. The project builds on accumulated evidence that mixtures of trees and crops are environmentally efficient and will provide high quality timber resources, while improving the amenity value of agricultural landscapes. The project brings together field experimenters, modellers of tree-crop interactions and end-users in the farm and forest sectors. A biophysical model will be linked with an economic model for long-term evaluation. The final deliverable of the project will be an 'Agro forestry Policy Options' document allowing the EU to frame new agro forestry regulations.",
+    "keywords": [
+        "Silvoarable Agroforestry",
+        "Tree-Crop Interactions",
+        "Agroforestry Modelling",
+        "Environmental and Economic Assessment",
+        "Agricultural Sustainability"
+    ],
+    "lead": "Institut National de la Recherche Agronomique (INRA)",
+    "project_url": "https://www1.montpellier.inrae.fr/safe/",
+    "project_funding_programme_listing": "https://cordis.europa.eu/project/id/QLK5-CT-2001-00560",
+    "start_date": "01/08/2001",
+    "end_date": "31/01/2005",
+    "submitter_name": "Ana Tom\u00e1s",
+    "submitter_email": "anatomas@mvarc.eu",
+    "logo_url": "https://www1.montpellier.inrae.fr/safe/images/safe-logo.gif",
+    "contact": "christian.dupraz@inrae.fr",
+    "id": "safe",
+    "timestamp_creation": 1795694535575,
+    "timestamp_lastedit": 1795694535575
+}
