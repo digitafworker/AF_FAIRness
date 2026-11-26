@@ -1,0 +1,23 @@
+{
+    "submitter_name": "Ana Tom\u00e1s",
+    "submitter_email": "anatomas@mvarc.eu",
+    "retrieve_from_cordis": "https://cordis.europa.eu/project/id/ICA4-CT-2001-10100",
+    "acronym": "CASFOR-II",
+    "code": "Grant agreement ID: ICA4-CT-2001-10100",
+    "name": "Modelling carbon sequestration in forested landscapes",
+    "programme": "FP5",
+    "description": "Development and dissemination of a model for estimating carbon budgets of forested landscapes, accounting for land-use changes such as forestation, reforestation and deforestation as specified under the Kyoto protocol. Aimed at decision support, the model will include basic economic assessments of costs of carbon sequestration, as well as effects of large-scale disturbances on long-term carbon sequestration. As part of the project, ARD options as described by the IPCC Special Report on Land Use and Land Use Changes will be included in the decision support model. A substantial part of the project will be devoted to parameterisation of the model for a wide range of forest and agro forestry ecosystems in the tropics, and to dissemination of the model and input parameters to an existing worldwide user-community using an interactive model-platform and information website.",
+    "keywords": [
+        "Forest Carbon Modelling",
+        "Carbon Sequestration",
+        "Agroforestry Systems"
+    ],
+    "lead": "Wageningen University",
+    "project_url": "https://efi.int/projects/casfor-ii-modelling-carbon-sequestration-forested-landscapes",
+    "project_funding_programme_listing": "https://cordis.europa.eu/project/id/ICA4-CT-2001-10100",
+    "start_date": "01/12/2001",
+    "end_date": "30/11/2004",
+    "id": "casforii",
+    "timestamp_creation": 1795697712315,
+    "timestamp_lastedit": 1795697712315
+}
