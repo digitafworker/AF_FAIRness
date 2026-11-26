@@ -1,0 +1,27 @@
+{
+    "submitter_name": "Ana Tom\u00e1s",
+    "submitter_email": "anatomas@mvarc.eu",
+    "acronym": "MOCA",
+    "name": "M\u00e9thodes et Outils pour la Conception en Agroforesterie",
+    "programme": "CASDAR (French Ministry of Agriculture)",
+    "lead": "GRAB (Groupe de Recherche en Agriculture Biologique)",
+    "description": "The MOCA project aimed to develop practical methods and tools to support the design and ex-ante assessment of agroforestry systems, helping farmers, advisors and educators create economically viable, environmentally sustainable and socially desirable systems.\n\nThrough a participatory approach involving farmers, researchers, technical advisors and educational institutions, the project addressed the complexity of agroforestry system design, including spatial arrangements, tree-crop interactions, temporal development and the environmental, economic and social performance of proposed systems.\n\nThe project developed and consolidated three complementary decision-support tools: DEXiAF, for the multicriteria assessment of agroforestry system sustainability; EcoAF, for 3D spatial design and simulation of tree growth and shading effects; and DiAFnostic, for predicting the development and timber production potential of trees in young agroforestry plantations.",
+    "keywords": [
+        "Agroforestry",
+        "Agroforestry Design",
+        "Decision Support Tools",
+        "Sustainability Assessment",
+        "Participatory Research",
+        "Agroforestry Modelling",
+        "Farmer Training",
+        "Tree-Crop Interactions",
+        "Knowledge Transfer"
+    ],
+    "project_url": "https://www.grab.fr/projet-moca/",
+    "start_date": "2020",
+    "end_date": "2024",
+    "logo_url": "https://www.grab.fr/wp-content/uploads/2023/01/MOCA-logo.png",
+    "id": "moca",
+    "timestamp_creation": 1795698417954,
+    "timestamp_lastedit": 1795698417954
+}
